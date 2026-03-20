@@ -1,2 +1,3 @@
-# lite-devops-toolkit-tpop
-Automated issue comment bot repository
+# Lite Devops Toolkit Tpop
+
+Automated issue comment bot repository.
